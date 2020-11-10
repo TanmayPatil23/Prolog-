@@ -1,1 +1,1 @@
-# Prolog-
+# GPROLOG
